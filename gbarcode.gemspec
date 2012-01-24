@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.extensions = %w{ext/extconf.rb}
   s.has_rdoc = true
   s.required_ruby_version = '>= 1.8.5'
-  s.requirements << 'gbarcode'
+  #s.requirements << 'gbarcode'
 end
 
 
